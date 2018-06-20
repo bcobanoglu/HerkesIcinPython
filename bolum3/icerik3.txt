@@ -1,0 +1,18 @@
+'''
+@aouthor:Dr.Bülent Çobanoğlu
+'''
+
+Bölüm 3. Değişkenler, Veri Tipleri ve Giriş-Çıkış Komutları
+
+Giriş
+Genel olarak her program, ‘Veri girişi, işlem (hesaplamalar) ve veri çıkışı’ olmak üzere üç aşamadan / bölümden oluşmaktadır.
+
+Veri girişi(input) --> İşlem ve hesaplamalar --> Veri çıkışı (output)
+
+Veri girişi (Program girdisi); Gerekli kütüphanelerin eklendiği, değişkenlerin tanımlandığı ve başlangıç değerlerinin atandığı kısımdır.
+İşlem ve hesaplamalar; Programa veri girişi yapıldıktan sonra gerekli işlem ve hesaplamaların yapıldığı, yani girdilerden çıktıların üretildiği kısımdır.
+Veri çıkışı (Program çıktısı); Programdan elde edilecek bilginin (daha doğrusu beklenen çıktının) sunulduğu kısımdır.
+Program çıktısında, çıkış verisinin içeriği ve formatı önemlidir.
+Çıkış verisinin içeriği, elde edilen veya edilecek bilgiyi, formatı ise çıkış içeriğinin sunum şeklini gösterir.
+Program çıktısı olarak ne elde edeceğimizi (programdan sonuç olarak ne beklediğimizi) iyi bilmemiz gerekir ki,
+bu da programın doğru sonuç üretip üretmediğinin testi açısından son derece önemlidir.

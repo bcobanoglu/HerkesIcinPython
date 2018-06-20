@@ -1,0 +1,14 @@
+'''
+Herkes için Python
+@author:Dr.Bülent Çobanoğlu
+'''
+Bölüm 6. Döngüler (Loops) 
+
+Giriş
+Döngüler, tekrar eden işlemleri gerçekleştirmek için tasarlanmış yapılardır. Bu nedenle döngü yapıları, farklı kaynaklarda tekrarlı yapılar olarak da adlandırılmaktadır. Programcı, yazdığı programın bazı kod satırlarını tekrarlı olarak çalıştırma ihtiyacı duyduğunda döngü yapılarını kullanır. Python’da döngü yapıları ve komutları aşağıdaki gibi iki başlıkta incelenebilir;
+•	while döngüleri,
+•	for döngüleri,
+
+•	while döngüleri; tekrar sayısının koşula bağlı olduğu, diğer bir ifade ile koşul gerçekleştiği veya gerçekleşmediği sürece işlemlerin tekrar ettiği döngülerdir. Bu yüzden tekrar sayısı koşula bağlı olan döngüler olarak da adlandırılırlar.  Örneğin; girilen sayı sıfırdan farklı olduğu sürece sayının karesini alan bir programda tekrar sayısı baştan bilinemediğinden, burada tekrar sayısı koşula bağlı olarak gerçekleşir. 
+
+•	for döngüleri: tekrarlama işleminin kaç kez yapılacağının baştan belli olduğu döngülerdir ki tekrar sayısı baştan belli olan döngüler olarak da adlandırılırlar. Örneğin; 1’den 10’a kadar olan sayıları toplayan bir programda, 9 kez tekrarlama yaptırıyorsanız bu tekrarlama sayısının başlangıçta belli olduğu anlamına gelir ki bu işlem; for döngüleri ile yapılabilir. 

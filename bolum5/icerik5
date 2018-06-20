@@ -1,0 +1,11 @@
+'''
+@Dr. Bülent Çobanoğlu
+'''
+Bölüm 5. Seçimli Yapılar (if, if-elif else)
+
+Giriş
+Normal bir programın işleyişi, ilk satırdan son satıra doğru sırası ile adım adım gerçekleşir.
+Fakat bu işleyiş sırası, bir koşula bağlı olarak değiştirilebilir.
+Programın işleyiş sırasının bir koşula bağlı olarak değiştirilmesi işlemine şartlı dallanma (branching) adı verilir ve dallanma işlemini gerçekleştiren komutlara da karar komutları denir.
+Karar yapılarında bir şarta (koşula) bağlı olarak iki ya da daha fazla seçenekten birini seçme işlemi gerçekleştirilmektedir.
+Program; şarta bağlı olarak hangi işlemi yapacağına karar verir. Python’da ‘if’, ‘if else’ ve ‘if-elif else’ olmak üzere üç adet seçme işlemini gerçekleştiren yapı vardır.

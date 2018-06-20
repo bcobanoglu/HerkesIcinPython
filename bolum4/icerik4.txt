@@ -1,0 +1,7 @@
+@author: Dr. Bülent Çobanoglu
+Bölüm 4. Operatörler ve Matematiksel İfadelerin Kodlanması
+
+Giriş
+Dört işlem (toplama, çıkarma, çarpma ve bölme) yapan ilk elektronik hesap makinesi 1967 yılında TI(Texas Instrument) firması tarafından geliştirilmiştir (http://www.ti.com/corp/docs/company/history.html). Bu hesap makinesi 18 tuşa ve 12 karakterlik ekrana sahipti.
+Aslında Python komut istemi; çok güçlü (tabii ki bilgisayarınızın işlemcisine bağlı olarak) bir hesap makinesi olarak kullanılabilir.
+Bunun için bu bölümde açıklayacağımız operatörleri ve matematiksel fonksiyonları bilmek yeterlidir.

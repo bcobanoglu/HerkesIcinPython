@@ -1,0 +1,14 @@
+'''
+@author:Dr. Bülent  Çobanoğlu
+'''
+Bölüm 18. Test Yazılımı Geliştirme (assert, unittest, doctest kavramları)
+Giriş
+Günümüzde yazılım firmalarının birçoğu ayrı bir birimde/bölümde; ‘test uzmanı, test mühendisi, test takım lideri, test yöneticisi veya testçi/tester’ gibi
+unvanlara sahip, geliştirilen yazılımı test eden elemanları istihdam etmektedirler.
+Artık test işi; kodlama bittikten sonra yapılan bir kontrolden ziyade projenin başından sonuna kadar
+aktif olarak yazılım geliştirme döngüsünde yer alan bir disiplin olarak görülmektedir.
+
+
+Python yazılım testleri için çok fazla araç sunar. En çok kullanılan Python birim testi (unit testing)
+araçlarına örnek olarak unittest, doctest, pytest, nose gösterilebilir. Bu araçların tam listesine
+https://wiki.python.org/moin/PythonTestingToolsTaxonomy adresinden erişebilirsiniz.
