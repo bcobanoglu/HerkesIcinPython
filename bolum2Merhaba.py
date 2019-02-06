@@ -1,1 +1,2 @@
-print ("Merhaba")
+//Merhaba diyelim dostlara
+print ("Merhaba dostum!!")
