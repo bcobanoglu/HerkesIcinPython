@@ -1,3 +1,8 @@
+"""
+Klasik Nokia Yılan Oyunu
+Author: Bülent Çobanoğlu
+Kaynak: https://www.edureka.co/blog/python-turtle-module/
+"""
 import turtle
 import time
 import random
@@ -17,10 +22,10 @@ wn.tracer(0) #ekranı güncellemesi kapalı
 yln= turtle.Turtle() #yılan nesnesi (değişkeni):yln 
 yln.speed(0) #yılanın başlangıç hızı
 yln.shape("square") #yılanın şekli: kare
-yln.color("yellow") #yılanın rengi: siyah
+yln.color("yellow") #yılanın rengi: sarı
 yln.penup() #Kalemi kaldır. Hareket ederken çizgi çizme
 yln.goto(0, 100) #yılanın başlangıç konumu
-yln.yonu = "dur" #sabit dur
+yln.yonu = "dur" #sabit dur, hareket etme!
 
 #Yem nesnesini oluşturup, başlangıç ayarlarını yapıyoruz
 yem = turtle.Turtle() #Yem nesnesi (değişkeni): yem
