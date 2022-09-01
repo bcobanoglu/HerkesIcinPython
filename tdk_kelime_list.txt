@@ -1,4 +1,4 @@
-﻿ab
+ab
 aba
 abacı
 abacılık
@@ -5125,8 +5125,6 @@ azvay
 âşıktaş
 âşıktaşlık
 âyan
-B
-b
 Ba
 baba
 babaanne
@@ -10396,8 +10394,6 @@ büzüşük
 büzüşüklük
 büzüşüverme
 büzüşüvermek
-C
-c
 Ca
 caba
 cabadan
@@ -14162,8 +14158,6 @@ cüzzamlı
 çürüyüverme
 çürüyüvermek
 çüş
-D
-d
 da
 Dadacı
 Dadacılık
@@ -18583,7 +18577,6 @@ düzülmek
 düzüm
 düzyazı
 Dy
-e
 ebabil
 ebat
 ebcet
@@ -20865,8 +20858,6 @@ ezogelin
 ezoterik
 e-mail
 e-posta
-F
-f
 fa
 faal
 faaliyet
@@ -22302,7 +22293,6 @@ füzen
 füzesavar
 füzyometre
 füzyon
-g
 Ga
 gabardin
 gabari
@@ -24999,10 +24989,6 @@ güzleme
 güzlemek
 güzlük
 güzün
-ğ
-H
-h
-Ha
 ha
 hab
 habanera
@@ -27567,7 +27553,6 @@ hüzünlülük
 hüzünsüz
 hüzünsüzlük
 hüzzam
-ı
 ıcığı
 ıcığını
 ığıl
@@ -27905,8 +27890,6 @@ hüzzam
 ızrar
 ıztırar
 ıztırari
-i
-I
 iade
 iadeiitibar
 iadeiziyaret
@@ -30342,7 +30325,6 @@ izzetüikram
 İzmirlilik
 İzmit
 İznik
-j
 jaguar
 jakar
 jakarlı
@@ -30462,8 +30444,6 @@ Jüpiter
 jüpon
 jüri
 jüt
-k
-K
 kaba
 kababurun
 kabaca
@@ -38040,9 +38020,6 @@ kütürdetme
 kütürdetmek
 kütürtü
 küvet
-L
-l
-La
 la
 laakal
 labada
@@ -38806,8 +38783,6 @@ lüzumsuz
 lüzumsuzca
 lüzumsuzluk
 lüzumundan
-M
-m
 maada
 maaile
 maalesef
@@ -42768,8 +42743,6 @@ müzminleştirme
 müzminleştirmek
 müzminlik
 Mv
-N
-n
 Na
 naaş
 naat
@@ -43835,8 +43808,6 @@ nütasyon
 nüve
 nüzul
 nüzullü
-o
-O
 oba
 obabaşı
 obelisk
@@ -45028,7 +44999,6 @@ ozonoskop
 ozonölçer
 ozonür
 ozuga
-ö
 öbek
 öbeklenme
 öbeklenmek
@@ -45931,8 +45901,6 @@ ozuga
 özverililik
 özverisiz
 özverisizlik
-P
-p
 Pa
 pabucu
 pabucuna
@@ -48142,7 +48110,6 @@ pütürlenmek
 pütürlü
 pütürsüz
 pütürsüzlük
-r
 Ra
 Rab
 rabbani
@@ -49075,8 +49042,6 @@ rüzgârölçer
 rüzgârsız
 rüzgârsızlık
 rüzgârüstü
-S
-s
 saadet
 saadethane
 saadetle
@@ -54248,7 +54213,6 @@ süzülüş
 süzüm
 süzüntü
 süzüş
-ş
 şaban
 şabanlaşma
 şabanlaşmak
@@ -55375,9 +55339,6 @@ süzüş
 şüyu
 şüyuu
 şvester
-T
-t
-ta
 Ta
 taaccüp
 taaddüt
@@ -59577,8 +59538,6 @@ tüzellik
 tüzük
 tvist
 tvistçi
-U
-u
 ubudiyet
 uca
 ucu
@@ -60439,7 +60398,6 @@ uzuv
 uzuvca
 uzvi
 uzviyet
-ü
 ücra
 ücret
 ücretlendirme
@@ -60861,8 +60819,6 @@ uzviyet
 üzüntülü
 üzüntüsüz
 üzüntüsüzlük
-v
-V
 vaadinde
 vaadini
 vaat
@@ -61709,8 +61665,6 @@ vükela
 vürut
 vüsat
 vüzera
-y
-Y
 ya
 yaba
 yabalama
@@ -64740,7 +64694,6 @@ yüzüvermek
 yüzyıl
 yüzyıllarca
 yüzyıllık
-z
 zaaf
 zaafa
 zabıt
@@ -65421,7 +65374,6 @@ zorunda
 zorunlu
 zorunluk
 zorunluluk
-Zr
 zuhur
 zuhurat
 zuhuri
@@ -65491,4 +65443,3 @@ zürriyetli
 zürriyetsiz
 zürriyetsizlik
 züyuf
-
