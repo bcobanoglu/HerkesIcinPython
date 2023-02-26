@@ -1,5 +1,5 @@
 """
-Telefon rehberi programı python 3.10 üsütnde çalışmaktadır.
+Telefon rehberi programı python 3.10 üsütnde çalışmaktadır. Öncelikle kayıt ekleyiniz...
 """
 import json
 rehber_dict = {"kayitli_isim_no":[]}
@@ -10,9 +10,6 @@ try:
 except:
     with open("telefon_rehberi.json", 'w') as f:
         json.dump(rehber_dict, f, indent=2)
-else:
-    pass
-
 
 
 def kayit_ekle():
@@ -40,8 +37,8 @@ def kayit_listele():
                     print("Tel:", i["tel"],"\n")
             else:
                 print("Rehberde kayit yok!")
-    except:
-        print("Yolunda gitmeyen seyler var")
+    except Exception as ex:
+        print("Sorun kaynağı.: ", ex)
 
 def kayit_sil():
     list_isimler = []
@@ -62,8 +59,8 @@ def kayit_sil():
             print("Rehberde kayit yok! Silemezsiniz")
         with open('telefon_rehberi.json', 'w') as f:            
                 json.dump(data, f, indent=2)
-    except:
-        print("Bir sorun var!")
+    except Exception as ex:
+        print("Sorun kaynağı.: ", ex)
     
     
     #print(list(filter(lambda person: person['isim'] == x, data_list)))
@@ -82,13 +79,9 @@ def kayit_ara():
                     print("Kayit bulunamadi!")
             else:
                 print("Rehberde kayit yok!")
-    except:
-        print("Bir sorun var!")
-    
-
-
-
-
+    except Exception as ex:
+        print("Sorun kaynağı.: ", ex)
+#main program:  
 try:
     secim = int(input("Yapmak istediginiz islemi seciniz.\n 1- Kayitlari listele\n 2- kayit sil\n 3- Kayit ekle\n 4- Kayit ara\n"))
     match secim: #match komutu 3.10 ve üzerinde çalışır
